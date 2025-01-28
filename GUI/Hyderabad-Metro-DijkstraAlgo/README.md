@@ -1,6 +1,5 @@
 # Hyderabad-Metro-DijkstraAlgo
-This Project uses Dijkstra Algorithm to determine the shortest path from any Metro Station as source to all the possible Metro Stations..
-The project is developed completely in java and has usecase in real time scenario. On selecting the source amongst any of metro stations it derives the shortest path to all the other metro stations.
+Hyderabad Metro Route Finder is a java-based application that leverages Dijkstra's Algorithm to find the shortest path between metro stations in Hyderabad. The project is designed to assist commuters by providing the most efficient route, helping them save time and travel costs. On selecting the source amongst any of the  metro stations, it derives the shortest path to all the other metro stations.
 Each metro station is valued from numbers between 0 to 55.
 
 COMPLEXITY: The time complexity of Dijkstras algorithm is O(N), N is the number of vertices in the graph.
